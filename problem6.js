@@ -10,9 +10,9 @@
 // else{
 //     console.log('number 3 is big');
 // }
-var num1 = 825;
-var num2 = 997;
-var num3 = 1186;
+var num1 = 3825;
+var num2= 1997;
+var num3 = 2186;
 if(num1>num2){
     console.log('num-1');
 }
