@@ -1,0 +1,20 @@
+var result = 40 ;
+if(result >= 80 && result <= 100){
+    console.log('A');
+}
+else if(result >=60 && result <=79){
+    console.log('B');
+}
+else if(result >=50 && result <=59){
+    console.log('C');
+}
+else if(result >=40 && result <=49){
+    console.log('D');
+}
+else if(result >=0 && result <=39){
+    console.log('F');
+}
+else{
+    console.log('upore jhamela ace boss');
+}
+
